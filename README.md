@@ -18,5 +18,7 @@ In Proceedings of the 2021 International Conference on Multimedia Retrieval.
 
 ### Datasets
 VQA-RAD, VQA-Slake and PathVQA. 
+
+### Results
 ![image](https://user-images.githubusercontent.com/35678614/198832513-3cd555ab-5b25-404c-8251-84601fbb8107.png)
 
