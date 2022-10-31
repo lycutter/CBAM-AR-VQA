@@ -22,5 +22,5 @@ VQA-RAD, VQA-Slake and PathVQA.
 ### Results
 ![image](https://user-images.githubusercontent.com/35678614/198832513-3cd555ab-5b25-404c-8251-84601fbb8107.png)
 
-Please note that the statistical significance is computed by the two-tailed -test method. The symbols 𝑇 ↑↑↑, ↑↑ and ↑ denote that our model outperforms the baseline models on significance level at 𝑝-value < 0.01, < 0.05 and < 0. 1 respectively in the table. 
+Please note that the statistical significance is computed by the two-tailed 𝑇-test method. The symbols ↑↑↑, ↑↑ and ↑ denote that our model outperforms the baseline models on significance level at 𝑝-value < 0.01, < 0.05 and < 0. 1 respectively in the table. 
 
