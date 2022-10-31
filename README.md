@@ -2,6 +2,10 @@
 
 ## The code of CBAM-AR-VQA model. This code is constructed based on the https://github.com/aioz-ai/MICCAI19-MedVQA and https://github.com/awenbocc/med-vqa. Kindly thank their sharing. All our source code will be released soon.
 
+The datasets are available at：https://pan.baidu.com/s/1FMLXBJhg5UR7-uC0C-xHmg with passpord "9urs" 
+The pretrained weights are available at：https://pan.baidu.com/s/1PisHX_2iIMgIZ4g4B-sSGw with passport "h9cv" 
+
+
 ## Experiments and Results
 ### Baselines
 MEVF: Overcoming data limitation in medical visual question answering. InProceedings of International Conference on Medical Image Computing and Computer-Assisted Intervention.
